@@ -18,6 +18,7 @@ Stay Home. Improve yourself.
 *  [Docker](#docker)
 *  [Ruby](#ruby)
 *  [React](#react)
+*  [Java](#java)
 *  [Data Science](#data-science)
 
 ## Android
@@ -153,6 +154,15 @@ Stay Home. Improve yourself.
 | Language | Date | Event Host | Event Name  | Event Link | 
 | --- | --- | --- | --- | --- |
 
+## Java
+#### *Upcoming*
+| Language | Date | Event Host | Event Name  | Event Link | 
+| --- | --- | --- | --- | --- |
+| <img src="https://github.com/okanaydin/online-events/blob/master/ic_languages/ic_tr.png" width="30">| 02.04.2020 | Istanbul Java User Group(JUG) |Java 9 to 14: Java 9 Module API | [link](https://www.meetup.com/tr-TR/Istanbul-Java-User-Group/events/269629317/) |
+
+#### *Past*
+| Language | Date | Event Host | Event Name  | Event Link | 
+| --- | --- | --- | --- | --- |
 
 ## Data Science
 #### *Upcoming*
